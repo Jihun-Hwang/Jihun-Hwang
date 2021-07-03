@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api?username=Jihun-Hwang&show_icons=true&theme=vue">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jihun-Hwang&show_icons=true&theme=vue" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jihun-hwang&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihun-hwang&layout=compact" />
-</a>
 
